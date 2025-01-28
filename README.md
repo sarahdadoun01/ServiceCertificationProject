@@ -18,6 +18,7 @@ To run this project, you need to have **Java** installed on your system.
    ```bash
    git clone https://github.com/yourusername/repository-name.git
    
+   
 2. Navigate to the project directory:
 
   ```bash
@@ -27,5 +28,3 @@ To run this project, you need to have **Java** installed on your system.
 3. Compile and run the Java files using your preferred IDE or by using the terminal.
 
   ```bash
-  javac Main.java
-  java Main
