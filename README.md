@@ -15,16 +15,16 @@ To run this project, you need to have **Java** installed on your system.
 
 1. Clone this repository to your local machine:
 
-   `bash
+   ``bash
    git clone https://github.com/yourusername/repository-name.git`
    
    
 2. Navigate to the project directory:
 
-  `bash
+  ``bash
   cd repository-name`
 
 
 3. Compile and run the Java files using your preferred IDE or by using the terminal.
 
-  `bash
+  ``bash
