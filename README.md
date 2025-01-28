@@ -28,6 +28,13 @@ To run this project, you need to have **Java** installed on your system.
 3. Compile and run the Java files using your preferred IDE or by using the terminal.
 
    ```bash
+   javac *.java
+
+   
+4. Run the main Java file (for example, DoCertificationExam.java):
+   
+   ```bash
+   java DoCertificationExam
 
 ### Usage
 
