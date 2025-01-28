@@ -34,13 +34,14 @@ To run this project, you need to have **Java** installed on your system.
 1. Upon running the program, you will be prompted to add students and assign grades.
 2. You can choose to display the list of students and their grades, or calculate the average grade for a student.
 3. The system does not save any data permanently (no database used), so all data is lost after the program is closed.
+   
 Example
 
-Adding a Student 
-Name: John Doe 
-ID: 12345 
-Class: Math 
-Grade: 85 
+* Adding a Student 
+* Name: John Doe 
+* ID: 12345 
+* Class: Math 
+* Grade: 85 
 
    
 ## Technologies Used
