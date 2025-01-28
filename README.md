@@ -21,10 +21,11 @@ To run this project, you need to have **Java** installed on your system.
    
 2. Navigate to the project directory:
 
-  ```bash
-  cd repository-name`
+   ```bash
+   cd repository-name`
 
 
 3. Compile and run the Java files using your preferred IDE or by using the terminal.
 
-  ```bash
+   ```bash
+   
