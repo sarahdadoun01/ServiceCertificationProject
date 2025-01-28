@@ -37,13 +37,9 @@ To run this project, you need to have **Java** installed on your system.
 Example
 
 Adding a Student
-
 Name: John Doe
-
 ID: 12345
-
 Class: Math
-
 Grade: 85
 
    
