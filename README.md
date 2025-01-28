@@ -36,11 +36,11 @@ To run this project, you need to have **Java** installed on your system.
 3. The system does not save any data permanently (no database used), so all data is lost after the program is closed.
 Example
 
-Adding a Student
-Name: John Doe
-ID: 12345
-Class: Math
-Grade: 85
+Adding a Student 
+Name: John Doe 
+ID: 12345 
+Class: Math 
+Grade: 85 
 
    
 ## Technologies Used
